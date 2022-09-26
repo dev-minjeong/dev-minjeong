@@ -16,4 +16,3 @@
 
 # 📬 Contacts
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kmjj1026@gmail.com)](mailto:kmjj1026@gmail.com)
-  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:nun1026@naver.com)](mailto:nun1026@naver.com)
