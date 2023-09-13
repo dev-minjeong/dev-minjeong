@@ -1,7 +1,7 @@
 # 😎 MinJeong
 <div style="display:flex; width:100%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-minjeong&layout=compact" style="width:45%;" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-minjeong&show_icons=true&theme=dracula" style="width:50%;"/>
+<!--    <img src="https://github-readme-stats.vercel.app/api?username=dev-minjeong&show_icons=true&theme=dracula" style="width:50%;"/> -->
 </div>
 
 # 🌱 Skills
