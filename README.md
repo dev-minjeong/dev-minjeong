@@ -5,7 +5,7 @@
 
 ### 🔧 Tech Stack
 **Frontend**
-- Next.js / React / TypeScript / Nextron
+- Next.js / React / TypeScript / Nextron / React Native (Basic)
 - Zustand / Redux Toolkit
 - TanStack Query (Currently Learning)
 - TailwindCSS / Styled-components / SCSS
